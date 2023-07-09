@@ -1,0 +1,343 @@
+{
+    "m_Version": 12,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_HANDGUARDS",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "mp5_plastichndgrd",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 999990,
+            "MinStockThreshold": 99999,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "mp5_railhndgrd",
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 150,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 999990,
+            "MinStockThreshold": 99999,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ak74_hndgrd",
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 150,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 999990,
+            "MinStockThreshold": 99999,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ak_woodhndgrd",
+            "MaxPriceThreshold": 400,
+            "MinPriceThreshold": 200,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 999990,
+            "MinStockThreshold": 99999,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ak_railhndgrd",
+            "MaxPriceThreshold": 400,
+            "MinPriceThreshold": 200,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 999990,
+            "MinStockThreshold": 99999,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ak_plastichndgrd",
+            "MaxPriceThreshold": 400,
+            "MinPriceThreshold": 200,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 999990,
+            "MinStockThreshold": 99999,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "m4_plastichndgrd",
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 150,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 999990,
+            "MinStockThreshold": 99999,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "m4_rishndgrd",
+            "MaxPriceThreshold": 400,
+            "MinPriceThreshold": 200,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 999990,
+            "MinStockThreshold": 99999,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "m4_mphndgrd",
+            "MaxPriceThreshold": 400,
+            "MinPriceThreshold": 200,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 999990,
+            "MinStockThreshold": 99999,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TF_SCAR_ADDHndgrd",
+            "MaxPriceThreshold": 6000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 999990,
+            "MinStockThreshold": 99999,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TF_SCAR_MREXHndgrd_Black",
+            "MaxPriceThreshold": 6000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 999990,
+            "MinStockThreshold": 99999,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": ["TF_SCAR_MREXHndgrd_FDE"]
+        },
+        {
+            "ClassName": "TF_SCAR_StndHndgrd",
+            "MaxPriceThreshold": 6000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 999990,
+            "MinStockThreshold": 99999,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TF_AKS74U_WoodHndgrd",
+            "MaxPriceThreshold": 6000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 999990,
+            "MinStockThreshold": 99999,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "TF_AKS74U_CAAHndgrd_RIS",
+                "TF_AKS74U_ZenitB11PlasticHndgrd_RIS",
+                "TF_AKS74U_ZenitB11WoodHndgrd_RIS"
+
+            ]
+        },
+        {
+            "ClassName": "TF_AK_ZenitB30B31Hndgrd_RIS",
+            "MaxPriceThreshold": 6000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 999990,
+            "MinStockThreshold": 99999,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TF_AR10_CMMG15Hndgrd_MLOCK",
+            "MaxPriceThreshold": 6000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 999990,
+            "MinStockThreshold": 99999,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": ["TF_AR10_CMMG9Hndgrd_MLOCK"]
+        },
+        {
+            "ClassName": "TF_M4_ADARWoodHndgrd",
+            "MaxPriceThreshold": 6000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 999990,
+            "MinStockThreshold": 99999,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "TF_M4_DD12Hndgrd_RIS_FDE",
+                "TF_M4_DD9Hndgrd_RIS_FDE",
+                "TF_M4_DDFSPHndgrd_RIS_FDE",
+                "TF_M4_SMR13Hndgrd_MLOCK_FDE",
+                "TF_M4_SMR9Hndgrd_MLOCK_FDE",
+                "TF_M4_KACHndgrd_RIS"
+            ]
+        },
+        {
+            "ClassName": "SNAFU_GADAR",
+            "MaxPriceThreshold": 6000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 999990,
+            "MinStockThreshold": 99999,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "SNAFU_GADAR",
+            "MaxPriceThreshold": 6000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 999990,
+            "MinStockThreshold": 99999,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "SNAFU_HG625",
+            "MaxPriceThreshold": 6000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 999990,
+            "MinStockThreshold": 99999,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "SNAFU_HGGS",
+            "MaxPriceThreshold": 6000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 999990,
+            "MinStockThreshold": 99999,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "SNAFU_MCMR07",
+            "MaxPriceThreshold": 6000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 999990,
+            "MinStockThreshold": 99999,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "SNAFU_MCMR08",
+                "SNAFU_MCMR09",
+                "SNAFU_MCMR10",
+                "SNAFU_MCMR13",
+                "SNAFU_MCMR15"
+            ]
+        },
+        {
+            "ClassName": "SNAFU_HGMlok",
+            "MaxPriceThreshold": 6000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 999990,
+            "MinStockThreshold": 99999,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "SNAFU_HGMlok_Tan"
+            ]
+        },
+        {
+            "ClassName": "SNAFU_MK7",
+            "MaxPriceThreshold": 6000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 999990,
+            "MinStockThreshold": 99999,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "SNAFU_MK9",
+                "SNAFU_MK10",
+                "SNAFU_MK13",
+                "SNAFU_MK15"
+            ]
+        },
+        {
+            "ClassName": "SNAFU_LVOAHG",
+            "MaxPriceThreshold": 6000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 999990,
+            "MinStockThreshold": 99999,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "SNAFU_MK47HG",
+            "MaxPriceThreshold": 6000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 999990,
+            "MinStockThreshold": 99999,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "SNAFU_SR3HG",
+            "MaxPriceThreshold": 6000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 999990,
+            "MinStockThreshold": 99999,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "SNAFU_AK_HG",
+            "MaxPriceThreshold": 6000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 999990,
+            "MinStockThreshold": 99999,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "SNAFU_M249HG",
+            "MaxPriceThreshold": 6000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 999990,
+            "MinStockThreshold": 99999,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "ModVersion": "1.1",
+    "ConfigVersion": 3,
+    "ZoneLocations": [
+        {
+            "ZoneLocation": [
+                8184.02001953125,
+                472.3999938964844,
+                9044.509765625
+            ],
+            "ZoneRadius": 500,
+            "CleanupDelaySeconds": 3600,
+            "PlayerDistance": 100,
+            "DeleteOnlyExcluded": 0,
+            "ExcludedClassNames": [
+                "ExcludedItem",
+                "AnotherExcludedItem"
+            ]
+        },
+        {
+            "ZoneLocation": [
+                3703.8701171875,
+                403.1199951171875,
+                6008.509765625
+            ],
+            "ZoneRadius": 500,
+            "CleanupDelaySeconds": 3600,
+            "PlayerDistance": 100,
+            "DeleteOnlyExcluded": 0,
+            "ExcludedClassNames": [
+                "ExcludedItem",
+                "AnotherExcludedItem"
+            ]
+        }
+    ]
+}

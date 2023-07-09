@@ -1,0 +1,2 @@
+clientmods @AVS;@Batteries;@supp;@Bulletstacks;@CF;@dab;@money;@expCore;@exp;@expMarket;@expMissions;@expNav;@expSpawn;@expAI;@loader;@BBP;@BPP_stacks;@CODELOCK;@CustomZombies;@EFTmed;@INJECTORS;@MMG;@MMG_mega;@MoreDrinks;@dog;@NO_DOF;@NoAH;@NoGlove;@SNAFU;@snafuTEX;@TF;@TRUCKFIX;@VPPAdmin;@FlipTransport;@BuilderItems;@Nature;@Summer;@LIGHTNING;@much;@drones;@morelitres;@carRepair;@nohevdam;@name
+servermods @CustomZombies;@gainz;@cleanup

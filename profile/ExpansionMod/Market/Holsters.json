@@ -1,0 +1,106 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Holsters",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "chestholster",
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 60,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 999990,
+            "MinStockThreshold": 99999,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "platecarrierholster",
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 60,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 999990,
+            "MinStockThreshold": 99999,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "platecarrierholster_green",
+                "platecarrierholster_black",
+                "platecarrierholster_camo"
+            ]
+        },
+        {
+            "ClassName": "platecarrierholster_camo",
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 80,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 999990,
+            "MinStockThreshold": 99999,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "platecarrierpouches",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 999990,
+            "MinStockThreshold": 99999,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "platecarrierpouches_green",
+                "platecarrierpouches_black",
+                "platecarrierpouches_camo"
+            ]
+        },
+        {
+            "ClassName": "platecarrierpouches_camo",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 120,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 999990,
+            "MinStockThreshold": 99999,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "nylonknifesheath",
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 999990,
+            "MinStockThreshold": 99999,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MMG_Holster_black",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 999990,
+            "MinStockThreshold": 99999,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_Holster_green",
+                "MMG_Holster_tan",
+                "MMG_Holster_alpine",
+                "MMG_Holster_erdl",
+                "MMG_Holster_dark_woodland",
+                "MMG_Holster_ucp",
+                "MMG_Holster_atacs",
+                "MMG_Holster_multicam",
+                "MMG_Holster_multicamblack",
+                "MMG_Holster_multicam_tropic"
+            ]
+        }
+    ]
+}

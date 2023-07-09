@@ -1,0 +1,21 @@
+{
+    "m_Version": 6,
+    "m_DisplayName": "Svetloyarsk Trading Zone",
+    "Position": [
+        14377.099609375,
+        4.099999904632568,
+        13272.900390625
+    ],
+    "Radius": 500.0,
+    "BuyPricePercent": 100.0,
+    "SellPricePercent": -1.0,
+    "Stock": {
+        "bonehook": 75,
+        "mackerel": 75,
+        "hook": 75,
+        "fishingrod": 75,
+        "worm": 75,
+        "carp": 75,
+        "sardines": 75
+    }
+}

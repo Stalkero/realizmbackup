@@ -1,0 +1,165 @@
+{
+    "m_Version": 12,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_BELTS",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "civilianbelt",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 999990,
+            "MinStockThreshold": 99999,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "militarybelt",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 999990,
+            "MinStockThreshold": 99999,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MMG_falcon_b1_belt_black",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 700,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 999990,
+            "MinStockThreshold": 99999,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_falcon_b1_belt_olive",
+                "MMG_falcon_b1_belt_multicam",
+                "MMG_falcon_b1_belt_multicamblack",
+                "MMG_falcon_b1_belt_multicam_tropic",
+                "MMG_falcon_b1_belt_tan",
+                "MMG_falcon_b1_belt_alpine",
+                "MMG_falcon_b1_belt_erdl",
+                "MMG_falcon_b1_belt_dark_woodland",
+                "MMG_falcon_b1_belt_ucp",
+                "MMG_falcon_b1_belt_atacs"
+            ]
+        },
+        {
+            "ClassName": "MMG_falcon_b1_belt_olive",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 700,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 999990,
+            "MinStockThreshold": 99999,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MMG_falcon_b1_belt_multicam",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 700,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 999990,
+            "MinStockThreshold": 99999,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MMG_falcon_b1_belt_multicamblack",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 700,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 999990,
+            "MinStockThreshold": 99999,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MMG_falcon_b1_belt_multicam_tropic",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 700,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 999990,
+            "MinStockThreshold": 99999,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MMG_falcon_b1_belt_tan",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 700,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 999990,
+            "MinStockThreshold": 99999,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MMG_falcon_b1_belt_alpine",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 700,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 999990,
+            "MinStockThreshold": 99999,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MMG_falcon_b1_belt_erdl",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 700,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 999990,
+            "MinStockThreshold": 99999,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MMG_falcon_b1_belt_dark_woodland",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 700,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 999990,
+            "MinStockThreshold": 99999,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MMG_falcon_b1_belt_ucp",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 700,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 999990,
+            "MinStockThreshold": 99999,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MMG_falcon_b1_belt_atacs",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 700,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 999990,
+            "MinStockThreshold": 99999,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+        
+    ]
+}

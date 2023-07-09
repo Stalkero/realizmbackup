@@ -1,0 +1,44 @@
+{
+    "m_Version": 2,
+    "Enabled": 0,
+    "UTC": 2,
+    "UseMissionTime": 0,
+    "Notifications": [
+        {
+            "Hour": 7,
+            "Minute": 10,
+            "Second": 0,
+            "Title": "SERVER RESTART",
+            "Text": "Server will restart in 4 minutes",
+            "Icon": "Info",
+            "Color": ""
+        },
+        {
+            "Hour": 7,
+            "Minute": 11,
+            "Second": 0,
+            "Title": "SERVER RESTART",
+            "Text": "Server will restart in 3 minutes",
+            "Icon": "Info",
+            "Color": ""
+        },
+        {
+            "Hour": 7,
+            "Minute": 12,
+            "Second": 0,
+            "Title": "SERVER RESTART",
+            "Text": "Server will restart in 2 minutes",
+            "Icon": "Info",
+            "Color": ""
+        },
+        {
+            "Hour": 7,
+            "Minute": 13,
+            "Second": 0,
+            "Title": "SERVER RESTART",
+            "Text": "Server will restart in 1 minutes",
+            "Icon": "Info",
+            "Color": ""
+        }
+    ]
+}

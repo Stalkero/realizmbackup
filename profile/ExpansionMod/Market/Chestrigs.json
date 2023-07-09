@@ -1,0 +1,32 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Chestrigs",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "mmg_chestrig_black",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 9000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 999990,
+            "MinStockThreshold": 99999,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "mmg_chestrig_green",
+                "mmg_chestrig_tan",
+                "mmg_chestrig_erdl",
+                "mmg_chestrig_alpine",
+                "mmg_chestrig_multicam",
+                "mmg_chestrig_multicamblack",
+                "mmg_chestrig_multicam_tropic",
+                "mmg_chestrig_dark_woodland",
+                "mmg_chestrig_ucp",
+                "mmg_chestrig_atacs"
+            ]
+        }
+    ]
+}

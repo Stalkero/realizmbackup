@@ -1,0 +1,188 @@
+{
+    "m_Version": 12,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_CARS",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "offroadhatchback",
+            "MaxPriceThreshold": 500000,
+            "MinPriceThreshold": 350000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 99999,
+            "MinStockThreshold": 99999,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "hatchbackwheel",
+                "hatchbackwheel",
+                "hatchbackwheel",
+                "hatchbackwheel",
+                "hatchbackwheel",
+                "carbattery",
+                "carradiator",
+                "sparkplug",
+                "hatchbackhood",
+                "hatchbacktrunk",
+                "hatchbackdoors_driver",
+                "hatchbackdoors_codriver",
+                "headlighth7",
+                "headlighth7"
+            ],
+            "Variants": [
+                "OffroadHatchback_Blue",
+                "OffroadHatchback_White"
+            ]
+        },
+        {
+            "ClassName": "hatchback_02",
+            "MaxPriceThreshold": 700000,
+            "MinPriceThreshold": 550000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 99999,
+            "MinStockThreshold": 99999,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "hatchback_02_wheel",
+                "hatchback_02_wheel",
+                "hatchback_02_wheel",
+                "hatchback_02_wheel",
+                "hatchback_02_wheel",
+                "hatchback_02_door_1_1",
+                "hatchback_02_door_2_1",
+                "hatchback_02_door_1_2",
+                "hatchback_02_door_2_2",
+                "hatchback_02_hood",
+                "hatchback_02_trunk",
+                "carbattery",
+                "carradiator",
+                "sparkplug",
+                "headlighth7",
+                "headlighth7"
+            ],
+            "Variants": [
+                "Hatchback_02_Blue",
+                "Hatchback_02_Black"
+            ]
+        },
+        {
+            "ClassName": "sedan_02",
+            "MaxPriceThreshold": 300000,
+            "MinPriceThreshold": 150000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 99999,
+            "MinStockThreshold": 99999,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "sedan_02_wheel",
+                "sedan_02_wheel",
+                "sedan_02_wheel",
+                "sedan_02_wheel",
+                "sedan_02_wheel",
+                "carbattery",
+                "carradiator",
+                "sparkplug",
+                "sedan_02_hood",
+                "sedan_02_trunk",
+                "sedan_02_door_1_1",
+                "sedan_02_door_2_1",
+                "sedan_02_door_1_2",
+                "sedan_02_door_2_2",
+                "headlighth7",
+                "headlighth7"
+            ],
+            "Variants": [
+                "Sedan_02_Red",
+                "Sedan_02_Grey"
+            ]
+        },
+        {
+            "ClassName": "civiliansedan",
+            "MaxPriceThreshold": 400000,
+            "MinPriceThreshold": 200000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 99999,
+            "MinStockThreshold": 99999,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "civsedanwheel",
+                "civsedanwheel",
+                "civsedanwheel",
+                "civsedanwheel",
+                "civsedanwheel",
+                "carbattery",
+                "carradiator",
+                "sparkplug",
+                "civsedanhood",
+                "civsedantrunk",
+                "civsedandoors_driver",
+                "civsedandoors_codriver",
+                "civsedandoors_backleft",
+                "civsedandoors_backright",
+                "headlighth7",
+                "headlighth7"
+            ],
+            "Variants": [
+                "CivilianSedan_Wine",
+                "CivilianSedan_Black"
+            ]
+        },
+        {
+            "ClassName": "truck_01_covered",
+            "MaxPriceThreshold": 10000000,
+            "MinPriceThreshold": 10000000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 99999,
+            "MinStockThreshold": 99999,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "truck_01_wheel",
+                "truck_01_wheel",
+                "truck_01_wheel",
+                "truck_01_wheel",
+                "truck_01_wheeldouble",
+                "truck_01_wheeldouble",
+                "truck_01_wheeldouble",
+                "truck_01_wheeldouble",
+                "truckbattery",
+                "truck_01_hood",
+                "truck_01_door_1_1",
+                "truck_01_door_2_1",
+                "headlighth7",
+                "headlighth7"
+            ],
+            "Variants": [
+                "Truck_01_Covered_Blue",
+                "Truck_01_Covered_Orange"
+            ]
+        },
+        {
+            "ClassName": "offroad_02",
+            "MaxPriceThreshold": 500000,
+            "MinPriceThreshold": 500000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 99999,
+            "MinStockThreshold": 99999,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "offroad_02_wheel",
+                "offroad_02_wheel",
+                "offroad_02_wheel",
+                "offroad_02_wheel",
+                "offroad_02_wheel",
+                "offroad_02_door_1_1",
+                "offroad_02_door_2_1",
+                "offroad_02_door_1_2",
+                "offroad_02_door_2_2",
+                "offroad_02_hood",
+                "offroad_02_trunk",
+                "carbattery",
+                "glowplug",
+                "headlighth7",
+                "headlighth7"
+            ],
+            "Variants": []
+        }
+    ]
+}

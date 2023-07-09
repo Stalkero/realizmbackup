@@ -1,0 +1,27 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Carbines",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "MMG_carbine_black",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 999990,
+            "MinStockThreshold": 99999,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_carbine_red",
+                "MMG_carbine_green",
+                "MMG_carbine_orange",
+                "MMG_carbine_blue",
+                "MMG_carbine_grey"
+            ]
+        }
+    ]
+}

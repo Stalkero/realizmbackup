@@ -1,0 +1,70 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Drones",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "DroneTablet",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 9000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 99999,
+            "MinStockThreshold": 99999,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ReconDroneKit",
+            "MaxPriceThreshold": 70000,
+            "MinPriceThreshold": 50000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 99999,
+            "MinStockThreshold": 99999,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "ReconDroneKit_ABU",
+                "ReconDroneKit_ARCTIC",
+                "ReconDroneKit_BRITISH",
+                "ReconDroneKit_DESERT",
+                "ReconDroneKit_FLECKTARN",
+                "ReconDroneKit_MULTICAMO",
+                "ReconDroneKit_MULTICAMODARK",
+                "ReconDroneKit_SPLINTER",
+                "ReconDroneKit_TIGERBLUE",
+                "ReconDroneKit_TIGERJUNGLE",
+                "ReconDroneKit_UCP",
+                "ReconDroneKit_UCPSMAL",
+                "ReconDroneKit_WOODLAND"
+            ]
+        },
+        {
+            "ClassName": "SimpleDroneKit",
+            "MaxPriceThreshold": 200000,
+            "MinPriceThreshold": 100000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 99999,
+            "MinStockThreshold": 99999,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+            "ClassName": "CargoDroneKit",
+            "MaxPriceThreshold": 500000,
+            "MinPriceThreshold": 100000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 99999,
+            "MinStockThreshold": 99999,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        }
+    ]
+}

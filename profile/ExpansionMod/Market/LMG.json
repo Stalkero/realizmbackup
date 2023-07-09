@@ -1,0 +1,54 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Light Machine Guns",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "SNAFU_RPK16_Black",
+            "MaxPriceThreshold": 190000,
+            "MinPriceThreshold": 170000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 999990,
+            "MinStockThreshold": 99999,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": ["SNAFU_RPK16_Green","SNAFU_RPK16_Tan"]
+        },
+        {
+            "ClassName": "Snafu_pkp_Black_GUN",
+            "MaxPriceThreshold": 290000,
+            "MinPriceThreshold": 170000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 999990,
+            "MinStockThreshold": 99999,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": ["Snafu_pkp_NBlack_GUN"]
+        },
+        {
+            "ClassName": "SNAFURPD",
+            "MaxPriceThreshold": 190000,
+            "MinPriceThreshold": 170000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 999990,
+            "MinStockThreshold": 99999,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "GCGN_M249",
+            "MaxPriceThreshold": 290000,
+            "MinPriceThreshold": 170000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 999990,
+            "MinStockThreshold": 99999,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}
