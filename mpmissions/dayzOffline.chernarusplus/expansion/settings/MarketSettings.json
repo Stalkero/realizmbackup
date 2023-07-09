@@ -8,7 +8,7 @@
     "DefaultDepositMoney": 100000000,
     "ATMPlayerTransferEnabled": 1,
     "ATMPartyLockerEnabled": 1,
-    "MaxPartyDepositMoney": 1000000,
+    "MaxPartyDepositMoney": 100000000,
     "UseWholeMapForATMPlayerList": 0,
     "SellPricePercent": 75.0,
     "NetworkBatchSize": 100,
@@ -266,17 +266,17 @@
         "ColorCategoryBackground": "222526FF"
     },
     "Currencies": [
-        "Money_Ruble1",
-        "Money_Ruble2",
-        "Money_Ruble5",
-        "Money_Ruble10",
-        "Money_Ruble50",
-        "Money_Ruble100",
-        "Money_Ruble200",
-        "Money_Ruble500",
-        "Money_Ruble1000",
+        "Money_Ruble5000",
         "Money_Ruble2000",
-        "Money_Ruble5000"
+        "Money_Ruble1000",
+        "Money_Ruble500",
+        "Money_Ruble200",
+        "Money_Ruble100",
+        "Money_Ruble50",
+        "Money_Ruble10",
+        "Money_Ruble5",
+        "Money_Ruble2",
+        "Money_Ruble1"
     ],
     "VehicleKeys": []
 }
